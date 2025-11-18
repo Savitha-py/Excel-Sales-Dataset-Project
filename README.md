@@ -74,6 +74,6 @@ This project is open-source and available under the MIT License.
 
 ***
 
-**Author:** [Your Name/GitHub Profile Link]
+**Author:** Savitha Kikkeri
 
-**Date:** [Date of Project Completion]
+**Date:** 07/10/2025
